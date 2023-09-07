@@ -41,8 +41,10 @@ Data Hound is written in Python 3.
 System architecture of Data Hound is based on a standardised "module" structure. Modules are used to integrate all of the toolkit's functionality into separate scripts and units within them.
 
 <p align="center">
-<img align="middle" width="600" src="https://github.com/R3D1AM/DataHound/blob/main/screenshots/DataHound_Structure.PNG"/>
-<img align="middle" width="600" src="https://github.com/R3D1AM/DataHound/blob/main/screenshots/DataHound_StructurePopulated.PNG"/>
+<img align="middle" width="600" src="DataHound/Screenshots/DataHound_Structure.png"/>
+</p>
+<p align="center">
+<img align="middle" width="600" src="DataHound/Screenshots/DataHound_StructurePopulated.png"/>
 </p>
 
 -----------------
