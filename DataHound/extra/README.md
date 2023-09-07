@@ -20,18 +20,18 @@ Data Hound is written in Python 3.
 # Contents
 - [Structure](#STRUCTURE)
 - [Usage](#USAGE)
-- [Requirements and Modules](#REQUIREMENTS AND MODULES)
+- [Requirements and Modules](#REQUIREMENTS_AND_MODULES)
 	- [Packages](#Packages)
 	- [Modules](#Modules)
 	- [Installation](#Installation)
 - [Running](#RUNNING)
-	- [Audio Files](#Audio Files)
-	- [Step 1: Original source Hash](#Step 1: Original source Hash)
+	- [Audio Files](#Audio_Files)
+	- [Step 1: Original source Hash](#Step_1:_Original_source_Hash)
 - [Manual](#Manual)
 - [ Automated](#Automated)
-	- [Step 2: Creating the Database](#Step 2: Creating the Database)
-	- [Step 3: Running Data Hound](#Step 3: Running Data Hound)
-- [Data_Hound.py -  further details](#Data_Hound.py -  further details)
+	- [Step 2: Creating the Database](#Step_2:_Creating_the_Database)
+	- [Step 3: Running Data Hound](#Step_3:_Running_Data_Hound)
+- [Data_Hound.py -  further details](#Data_Hound.py_further_details)
 - [Customise](#CUSTOMISE)
 - [Disclaimer](#DISCLAIMER)
 
@@ -41,10 +41,10 @@ Data Hound is written in Python 3.
 System architecture of Data Hound is based on a standardised "module" structure. Modules are used to integrate all of the toolkit's functionality into separate scripts and units within them.
 
 <p align="center">
-<img align="middle" width="600" src="DataHound/Screenshots/DataHound_Structure.png"/>
+<img align="middle" width="600" src="https://github.com/R3D1AM/DataHound/blob/main/DataHound/Screenshots/DataHound_Structure.png"/>
 </p>
 <p align="center">
-<img align="middle" width="600" src="DataHound/Screenshots/DataHound_StructurePopulated.png"/>
+<img align="middle" width="600" src="https://github.com/R3D1AM/DataHound/blob/main/DataHound/Screenshots/DataHound_StructurePopulated.png"/>
 </p>
 
 -----------------
